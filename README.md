@@ -26,16 +26,19 @@
 - 🔧 **Alat Tempur:** 📝 VS Code, 🏗️ Git, 🐙 GitHub, 🐧 Linux, 🐳 Docker
 - 🌐 **Web & Keamanan:** 🔗 REST API, 🎭 Frontend & Backend, 🔍 Subdomain Enumeration
 - 💻 *OS:** Parrot OS & Windows 10
+  
+
+---
+## 🛠 Bug Bounty Profile: 
+- 💻 *HACKERONE :https://hackerone.com/hihipro6
+- 💻 *BUG CROWD :
+- 💻 *YESWEHACK :
 
 ---
 
+## 🚀 Portofolio & Project:
 
-
----
-
-## 🚀 Portofolio & Proyek:
-
-🔥 **Cosmic Security Website* - Website khusus mengenai kelas kami Cyber Security & Bug Bounty . [Cek di sini!](https://sites.google.com/view/cosmiccyberid/beranda)
+🔥 **Cosmic Security Website** - Website khusus mengenai kelas kami Cyber Security & Bug Bounty . [Cek di sini!](https://sites.google.com/view/cosmiccyberid/beranda)
 
 🎯 **Developers BTest** - Tools buat bantu hunting!
 

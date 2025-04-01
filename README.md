@@ -29,6 +29,7 @@ https://tenor.com/view/gotoubun-nino-nakano-sexy-anime-gif-18615332
 - 💻 **Bahasa Pemrograman:** 🐍 Python
 - 🔧 **Alat Tempur:** 📝 VS Code, 🏗️ Git, 🐙 GitHub, 🐧 Linux, 🐳 Docker
 - 🌐 **Web & Keamanan:** 🔗 REST API, 🎭 Frontend & Backend, 🔍 Subdomain Enumeration
+- 💻 *OS:** Parrot OS & Windows 10
 
 ---
 

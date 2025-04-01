@@ -56,9 +56,10 @@
 ## 🏆 Sertifikat & Prestasi:
 
 - 🏅 **CSIRT Sertifikat Penghargaan Kemenkes** 
-- 🏅 **CSIRT Sertifikat Penghargaan Tangsel kota** - 
-- 🏅 **CSIRT Sertifikat Penghargaan Bali*  
-- 🏅 **CSIRT Sertifikat Penghargaan Kemendag*
-- 🏅 **CSIRT Sertifikat Penghargaan Pandang*
+- 🏅 **CSIRT Sertifikat Penghargaan Tangsel kota** 
+- 🏅 **CSIRT Sertifikat Penghargaan Bali**
+- 🏅 **CSIRT Sertifikat Penghargaan Kemendag**
+- 🏅 **CSIRT Sertifikat Penghargaan Pandang**
+- - 🏅 **CISCO Cyber Security Introduction**
 
 > "Bug bounty itu bukan soal dapet duit, tapi soal ngerasain sakitnya ditolak!" 🤣🔥

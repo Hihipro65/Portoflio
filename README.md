@@ -1,6 +1,6 @@
 # 👋 WELCOME TO MY BIO 🚀
 
-![GIF] ![image](https://github.com/user-attachments/assets/c55314bc-6ad2-46d9-814a-0772789f7725)
+![image](https://github.com/user-attachments/assets/c55314bc-6ad2-46d9-814a-0772789f7725)
 
 
 <p align="center">

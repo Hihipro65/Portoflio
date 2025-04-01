@@ -1,6 +1,6 @@
 # 👋 WELCOME TO MY BIO 🚀
 
-![GIF][(https://media1.tenor.com/m/Dq7Tg9ic_IkAAAAd/bokuyaba-boku-no-kokoro-no-yabai-yatsu.gif)](https://tenor.com/b2eHj.gif)
+![GIF] [(https://media1.tenor.com/m/Dq7Tg9ic_IkAAAAd/bokuyaba-boku-no-kokoro-no-yabai-yatsu.gif)](https://tenor.com/b2eHj.gif)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />

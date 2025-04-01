@@ -31,7 +31,7 @@
 ---
 ## 🛠 Bug Bounty Profile: 
 - 💻 *HACKERONE : https://hackerone.com/hihipro6
-- 💻 *BUG CROWD :
+- 💻 *BUG CROWD : https://bugcrowd.com/lanvy65
 - 💻 *YESWEHACK :
 
 ---

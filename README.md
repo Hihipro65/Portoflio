@@ -32,13 +32,7 @@
 
 ---
 
-## 📊 Statistik:
 
-📌 ![AryzXploit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryzXploit&show_icons=true&theme=tokyonight)
-
-📌 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryzXploit&layout=compact&theme=radical)
-
-🏆 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryzXploit&theme=dracula)
 
 ---
 

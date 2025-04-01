@@ -41,7 +41,7 @@ https://tenor.com/view/gotoubun-nino-nakano-sexy-anime-gif-18615332
 
 🔥 **Cosmic Security Website* - Website khusus mengenai kelas kami Cyber Security & Bug Bounty . [Cek di sini!](https://sites.google.com/view/cosmiccyberid/beranda)
 
-🎯 **Developers 0zer0Tools** - Tools buat bantu hunting subdomain pake httpx, cek di repo gw!
+🎯 **Developers BTest** - Tools buat bantu hunting!
 
 📺 **Kelas Bug Bounty** - Ngajar di Discord buat yang mau belajar bug bounty [Disini Cuy!🚀](https://discord.gg/cosmiocsecurity)
 

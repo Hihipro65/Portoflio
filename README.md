@@ -14,20 +14,18 @@
 
 ---
 
-## 💻 Siapa Gue? 🕵️‍♂️
+## 💻 WHOAMI? 🕵️‍♂️
 
-- 🚀 **Bug Hunter in Progress** 🐛💥
+- 🚀 **Penetration Tester & Bug HUnter** 🐛💥
 - 🔥 **Developer ngulik keamanan web** 🔐
 - 📖 **Suka belajar & explore dunia hacking legal** ⚡
 - 🎮 **Main game? Mending hack game!** 😆
-- 🛠 **Coding bukan hobi, tapi kebutuhan!**
 
 ---
 
 ## 🛠 Tech Stack: 
 
-- 💻 **Bahasa Pemrograman:** 🐍 Python, 🟨 JavaScript, 🦫 Go, 🐘 PHP, 🎨 HTML, 🎨 CSS
-- 🎨 **Framework:** ⚡ Laravel
+- 💻 **Bahasa Pemrograman:** 🐍 Python
 - 🔧 **Alat Tempur:** 📝 VS Code, 🏗️ Git, 🐙 GitHub, 🐧 Linux, 🐳 Docker
 - 🌐 **Web & Keamanan:** 🔗 REST API, 🎭 Frontend & Backend, 🔍 Subdomain Enumeration
 
@@ -49,7 +47,7 @@
 
 🎯 **Developers 0zer0Tools** - Tools buat bantu hunting subdomain pake httpx, cek di repo gw!
 
-📺 **Kelas Bug Hunter** - Ngajar di Discord buat yang mau belajar hacking legal [Disini Cuy!🚀](https://discord.gg/selenium)
+📺 **Kelas Bug Bounty** - Ngajar di Discord buat yang mau belajar bug bounty [Disini Cuy!🚀](https://discord.gg/cosmiocsecuritY)
 
 ---
 

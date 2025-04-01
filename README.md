@@ -1,8 +1,7 @@
 # 👋 WELCOME TO MY BIO 🚀
 
 
-[
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd4YjJ6NnU0MmFjaHhyZzJzejFlNnBoYmZhYjZhc2JpcG90Z3JpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDaBrYcECrDzR8OBmh/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd4YjJ6NnU0MmFjaHhyZzJzejFlNnBoYmZhYjZhc2JpcG90Z3JpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDaBrYcECrDzR8OBmh/giphy.gif)
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd4YjJ6NnU0MmFjaHhyZzJzejFlNnBoYmZhYjZhc2JpcG90Z3JpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDaBrYcECrDzR8OBmh/giphy.gif)
 
 ---
 

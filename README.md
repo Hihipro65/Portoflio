@@ -2,12 +2,7 @@
 
 
 
-
-<p align="center">
-  <a href="https://github.com/Hihipro65">
-  <a href="https://www.youtube.com/dickychristian"><img src="https://komarev.com/ghpvc/?username=XDevTools&label=YouTube&color=blue&style=flat" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@hihipro65"><img src="https://komarev.com/ghpvc/?username=JaxTheWhiteHat&label=TikTok&color=blue&style=flat" alt="TikTok" /></a>
-</p>
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd4YjJ6NnU0MmFjaHhyZzJzejFlNnBoYmZhYjZhc2JpcG90Z3JpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDaBrYcECrDzR8OBmh/giphy.gif
 
 ---
 
@@ -32,7 +27,7 @@
 ## 🛠 Bug Bounty Profile: 
 - 💻 *HACKERONE : https://hackerone.com/hihipro6
 - 💻 *BUG CROWD : https://bugcrowd.com/lanvy65
-- 💻 *YESWEHACK :
+
 
 ---
 

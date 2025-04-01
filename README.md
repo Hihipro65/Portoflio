@@ -3,12 +3,9 @@
 https://tenor.com/view/gotoubun-nino-nakano-sexy-anime-gif-18615332
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
-  <a href="https://github.com/Hihipro65"><img src="https://komarev.com/ghpvc/?username=AryzXploit&label=GitHub&color=blue&style=flat" alt="GitHub" /></a>
+  <a href="https://github.com/Hihipro65">
   <a href="https://www.youtube.com/dickychristian"><img src="https://komarev.com/ghpvc/?username=XDevTools&label=YouTube&color=blue&style=flat" alt="YouTube" /></a>
   <a href="https://www.tiktok.com/@hihipro65"><img src="https://komarev.com/ghpvc/?username=JaxTheWhiteHat&label=TikTok&color=blue&style=flat" alt="TikTok" /></a>
 </p>

@@ -1,6 +1,7 @@
 # 👋 WELCOME TO MY BIO 🚀
 
-![GIF] https://tenor.com/kxyo2CDE1t3.gif
+![GIF] ![image](https://github.com/user-attachments/assets/c55314bc-6ad2-46d9-814a-0772789f7725)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />

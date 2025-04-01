@@ -1,6 +1,6 @@
 # 👋 WELCOME TO MY BIO 🚀
 
-![image] https://tenor.com/kxyo2CDE1t3.gif
+<div class="tenor-gif-embed" data-postid="18615332" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/gotoubun-nino-nakano-sexy-anime-gif-18615332">Gotoubun Nino GIF</a>from <a href="https://tenor.com/search/gotoubun-gifs">Gotoubun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <p align="center">

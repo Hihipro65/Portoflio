@@ -1,6 +1,5 @@
 # 👋 WELCOME TO MY BIO 🚀
 
-https://tenor.com/view/gotoubun-nino-nakano-sexy-anime-gif-18615332
 
 
 

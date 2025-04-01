@@ -17,10 +17,10 @@
 
 ## 💻 WHOAMI? 🕵️‍♂️
 
-- 🚀 **Penetration Tester & Bug HUnter** 🐛💥
+- 🚀 **Penetration Tester & Bug Hunter** 🐛💥
 - 🔥 **Developer ngulik keamanan web** 🔐
-- 📖 **Suka belajar & explore dunia hacking legal** ⚡
-- 🎮 **Main game? Mending hack game!** 😆
+- 📖 **Suka belajar & explore dunia cyber security & ethical hacking** ⚡
+
 
 ---
 

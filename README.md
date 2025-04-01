@@ -1,6 +1,6 @@
 # 👋 WELCOME TO MY BIO 🚀
 
-![image](https://github.com/user-attachments/assets/c55314bc-6ad2-46d9-814a-0772789f7725)
+![image]
 
 
 <p align="center">
@@ -44,11 +44,11 @@
 
 ## 🚀 Portofolio & Proyek:
 
-🔥 **LostSec Website** - Tempat ini ngasih gw ngasih tutorial buat bug hunter pemula! Dibangun pake React.js & Tailwind CSS. [Cek di sini!](https://lostsec.xyz)
+🔥 **Cosmic Security Website* - Website khusus mengenai kelas kami Cyber Security & Bug Bounty . [Cek di sini!](https://sites.google.com/view/cosmiccyberid/beranda)
 
 🎯 **Developers 0zer0Tools** - Tools buat bantu hunting subdomain pake httpx, cek di repo gw!
 
-📺 **Kelas Bug Bounty** - Ngajar di Discord buat yang mau belajar bug bounty [Disini Cuy!🚀](https://discord.gg/cosmiocsecuritY)
+📺 **Kelas Bug Bounty** - Ngajar di Discord buat yang mau belajar bug bounty [Disini Cuy!🚀](https://discord.gg/cosmiocsecurity)
 
 ---
 
@@ -59,6 +59,6 @@
 - 🏅 **CSIRT Sertifikat Penghargaan Bali**
 - 🏅 **CSIRT Sertifikat Penghargaan Kemendag**
 - 🏅 **CSIRT Sertifikat Penghargaan Pandang**
-- - 🏅 **CISCO Cyber Security Introduction**
+- 🏅 **CISCO Cyber Security Introduction**
 
-> "Bug bounty itu bukan soal dapet duit, tapi soal ngerasain sakitnya ditolak!" 🤣🔥
+> "Bug Bounty adalah jalan ninjaku."
